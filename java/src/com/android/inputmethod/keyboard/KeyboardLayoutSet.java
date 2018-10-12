@@ -43,7 +43,7 @@ import org.smc.inputmethod.compat.InputMethodSubtypeCompatUtils;
 import org.smc.inputmethod.indic.InputAttributes;
 import org.smc.inputmethod.indic.R;
 import org.smc.inputmethod.indic.SubtypeSwitcher;
-import org.smc.inputmethod.indic.define.DebugFlags;
+import org.smc.inputmethod.latin.define.DebugFlags;
 import com.android.inputmethod.latin.utils.InputTypeUtils;
 import com.android.inputmethod.latin.utils.ScriptUtils;
 import com.android.inputmethod.latin.utils.SubtypeLocaleUtils;

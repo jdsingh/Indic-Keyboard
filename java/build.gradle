@@ -48,17 +48,14 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file(System.console().readLine("\n\$ Enter keystore path: "))
-            storePassword System.console().readLine("\n\$ Enter keystore password: ")
-            keyAlias System.console().readLine("\n\$ Enter key alias: ")
-            keyPassword System.console().readLine("\n\$ Enter key password: ")
+
         }
     }
     buildTypes {
         release {
             /*minifyEnabled true*/
             /*proguardFile getDefaultProguardFile('proguard-android.txt')*/
-            signingConfig signingConfigs.release
+            // signingConfig signingConfigs.release
         }
     }
     lintOptions {

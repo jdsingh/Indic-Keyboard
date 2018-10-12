@@ -22,7 +22,7 @@ import android.util.Log;
 
 import org.smc.inputmethod.indic.Constants;
 import org.smc.inputmethod.indic.R;
-import org.smc.inputmethod.indic.define.DebugFlags;
+import org.smc.inputmethod.latin.define.DebugFlags;
 
 // This hack is applied to certain classes of tablets.
 public final class BogusMoveEventDetector {

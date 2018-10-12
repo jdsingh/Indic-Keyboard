@@ -20,7 +20,7 @@ import org.smc.inputmethod.dictionarypack.DictionarySettingsFragment;
 
 import java.util.HashSet;
 
-import org.smc.inputmethod.indic.about.AboutPreferences;
+import org.smc.inputmethod.latin.about.AboutPreferences;
 import org.smc.inputmethod.indic.settings.AdvancedSettingsFragment;
 import org.smc.inputmethod.indic.settings.AppearanceSettingsFragment;
 import org.smc.inputmethod.indic.settings.CorrectionSettingsFragment;

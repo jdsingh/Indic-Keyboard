@@ -37,7 +37,7 @@ import java.util.ArrayList;
 import org.smc.inputmethod.indic.Constants;
 import org.smc.inputmethod.indic.InputPointers;
 import org.smc.inputmethod.indic.R;
-import org.smc.inputmethod.indic.define.DebugFlags;
+import org.smc.inputmethod.latin.define.DebugFlags;
 import org.smc.inputmethod.indic.settings.Settings;
 import com.android.inputmethod.latin.utils.CoordinateUtils;
 import com.android.inputmethod.latin.utils.ResourceUtils;
